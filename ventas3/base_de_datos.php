@@ -6,7 +6,7 @@
 
 	No olvides visitar parzibyte.me/blog para más cosas como esta
 */
-$contraseña = "3266root";
+$contraseña = "123456";
 $usuario = "root";
 $nombre_base_de_datos = "ventas";
 try{
